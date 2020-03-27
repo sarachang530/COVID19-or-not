@@ -1,0 +1,41 @@
+.title {
+    font-family: 'Abel', sans-serif;
+    text-align: center;
+   
+
+}
+
+.symptomsContainer {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.symptoms {
+    background-image: radial-gradient(circle at center center, rgb(252, 155, 156),rgb(237, 122, 126),rgb(221, 89, 96),rgb(206, 56, 65),rgb(190, 23, 35));
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.2);
+    color: whitesmoke;
+}
+
+.textbox {
+    border-radius: 5px;
+    border: none;
+    margin: 0 0.5rem;
+}
+
+.buttons {
+    border-radius: 5px;
+    border: none;
+    padding: .5rem;
+    background: rgba(0, 0, 0, 0.116);
+    color: whitesmoke;
+    margin: .5rem;
+}
+
+
+.parent {
+    
+
+}
